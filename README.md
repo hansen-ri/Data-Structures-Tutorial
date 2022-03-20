@@ -8,12 +8,12 @@ CSE 212 Data Structures Tutorial Repo
 * LIFO
 * UNDO
 * Common Operations
-## SETS
+## [SETS](/Sets/Sets.md)
 * Duplicate Data…Or Lack Thereof
 * Hashing 
 * Dealing With Conflicts
 * Common Operations
-## TREES
+## [TREES](/Trees/Trees.md)
 * Binary Trees
 * Searching Trees
 * Balancing Trees
