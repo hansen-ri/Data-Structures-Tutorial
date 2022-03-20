@@ -4,7 +4,7 @@ CSE 212 Data Structures Tutorial Repo
 ## WELCOME
 * Introduction
 *	Contact
-##	STACKS
+##	[STACKS](/Stacks/Stacks.md)
 * LIFO
 * UNDO
 * Common Operations
