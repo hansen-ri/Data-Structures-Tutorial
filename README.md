@@ -18,4 +18,3 @@ CSE 212 Data Structures Tutorial Repo
 * Searching Trees
 * Balancing Trees
 * Common Operations
-![image](https://user-images.githubusercontent.com/72674034/159145670-5d248a5f-c025-409d-bd97-2fa035b6be32.png)
