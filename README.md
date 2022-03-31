@@ -6,17 +6,28 @@
 * Click on the blue titles to go to the associated page. 
 
 * Check out the rest of the GitHub channel [here](https://github.com/hansen-ri)!
+
+---
+
 ##	[STACKS](/Stacks/Stacks.md)
 * LIFO
 * UNDO
 * Common Operations
+* [Coding Exercise](/Stacks/stackexercise.md)
+
+---
+
 ## [SETS](/Sets/Sets.md)
 * Duplicate Data…Or Lack Thereof
 * Hashing 
-* Dealing With Conflicts
-* Common Operations
+* Common Operations 
+* [Coding Exercise](/Sets/setsexercise.md)
+
+---
+
 ## [TREES](/Trees/Trees.md)
 * Binary Trees
 * Searching Trees
 * Balancing Trees
 * Common Operations
+* [Coding Exercise](/Trees/treesexercise.md)

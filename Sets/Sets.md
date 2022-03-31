@@ -90,3 +90,5 @@ Python operations that deal with sets are as follows:
 
 For additional insights into set methods, visit [this page](https://www.programiz.com/python-programming/set#:~:text=other%20python%20set%20methods) for a complete list. 
 
+For the sets coding exercise, click [here.](/Sets/setsexercise.md)
+
