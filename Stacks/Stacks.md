@@ -22,12 +22,13 @@ Considering the format of the stack structure, the built-in Python list operatio
 
 ## For Example:
 
+Assume you are working on a paper for school and you type it up yourself. When something inevitably goes wrong with your typing, you instinctively hit the CTRL + Z combo you've seemingly known forever and you go on with your project. This functionality is a stack.
+
 >![Control Z](/Images/download.jpeg)
 >
 >*A common keyboard usage is Control + Z*
 
-Assume you are working on a paper for school and you type it up yourself. When something inevitably goes wrong with your typing, you instinctively hit the CTRL + Z combo you've seemingly known forever and you go on with your project. This functionality is a stack. 
-
+ 
 Now lets say that for every new thing you do to the document is associated with a number. Opening a file, adding a new page, inserting a picture, or just general typing all qualify. As you go along, that stack might look something like this:
 
 ```python
