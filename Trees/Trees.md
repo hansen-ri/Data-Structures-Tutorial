@@ -22,5 +22,6 @@ Assuming that you were to insert the number 9 into the structure pictured above,
 ### Recursion 
 Recursion is a key part of BST's, since unlike our previous example, we can be given values that need more steps to accomplish. The basic rule to note about this structure is the fact that navigating a BST is a repeated question of "_Left or Right?_" By using recursion appropriately, we can stop at a node, run a function to know whether to go left or right, and when/if we get to the next node, run that same function again, all within a singular action: Inserting, Searching, Deleting, etc.
 
----
+[Return to Main Menu](/README.md)
+
 
