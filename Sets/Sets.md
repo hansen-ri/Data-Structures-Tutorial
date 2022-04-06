@@ -5,7 +5,7 @@ Sets are a programming data structure that enables programmers to store varying 
 
 ---
 
-### Big 0 Efficiency
+### Big O Efficiency
 
 Because of the nature of sets, duplicate values are eliminated from the data set, which makes adding, removing, and finding values from a set almost always an O(1) efficiency. This is possible because when a value is assessed by the built-in Python logic, a *hash value* is assigned to that piece of data. You can think of this as a serial number on a reproducible product. Yes, the items are the same kind of thing, but they are not the *exact* same thing. Consequently, when we search for a specific value within a set, this distinguishing identity of our desired value helps us find the item we are looking for very efficiently. 
 
@@ -91,4 +91,6 @@ Python operations that deal with sets are as follows:
 For additional insights into set methods, visit [this page](https://www.programiz.com/python-programming/set#:~:text=other%20python%20set%20methods) for a complete list. 
 
 For the sets coding exercise, click [here.](/Sets/setsexercise.md)
+
+[Return to Main Menu](/README.md)
 
